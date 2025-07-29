@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>задание 2</title>
+        <link rel="stylesheet" href="styles2.css">
+    </head>
+    <body>
+        <a href="https://raptor-mvk.github.io/qa-html-css-homework/task_main.html">Вернуться к списку заданий</a>
+        <p><span class="red">это красный текст</span></p>
+        <p><span class="red">это тоже красный текст</span></p>
+        <p><b>это полужирный текст</b></p>
+        <p><b>это тоже полужирный текст</b></p>
+        <p>Все элементы следующего списка(включая подсписок) имеют разные цвета и ни один из них не черный:</p>
+        <ul>
+            <li style="color:green">Элемент списка
+            </li>
+            <ol>
+                <li style="color: red;">Первый элемент списка</li>
+                <li style="color: red;">Второй элемент списка</li>
+            </ol>
+            <li>
+                <p><span style="color: green;">Еще один элемент списка</span></p>
+            </li>
+        </ul>
+        <p>
+            В <span style="font-size: xx-small;">этом</span>
+             <span style="font-size: xx-large;">абзаце</span> 
+             <span style="font-size: x-small;">все</span> 
+             <span style="font-size: larger;">слова</span> 
+             <span style="font-size: small;">разного</span> 
+             <span style="font-size: smaller;">размера</span>
+        </p>
+    </body>
+</html>

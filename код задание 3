@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="styles3.css">
+    </head>
+    <body>
+        <a href="https://raptor-mvk.github.io/qa-html-css-homework/task_main.html">Вернуться к списку заданий</a>
+        <p class="red">Это красный текст</p>
+        <p class="green">Это зеленый текст </p>
+        <p class="italic">Этот текст написан курсивом</p>
+        <p class="bold">Это полужирный текст</p>
+        <ul>
+            <li class="green">Этот элемент списка зеленый</li>
+            <ol>
+                <li class="red">Это элемент подсписка красный</li>
+                <li class="blue">Этот элемент подсписка синий</li>
+            </ol>
+        </ul>
+    </body>
+</html>
